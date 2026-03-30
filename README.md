@@ -33,7 +33,7 @@ Now building at the intersection of **AI and product management** — shipping A
 <p align="center">
   <img src="https://img.shields.io/badge/🏆_Global_PM_Competition-Winner_2023-f59e0b?style=flat-square" alt="Award">
   <img src="https://img.shields.io/badge/📈_Engagement-+120%25-10b981?style=flat-square" alt="Engagement">
-  <img src="https://img.shields.io/badge/👥_Users_Served-2M+-3b82f6?style=flat-square" alt="Users">
+  <img src="https://img.shields.io/badge/👥_Users_Served-10M+-3b82f6?style=flat-square" alt="Users">
   <img src="https://img.shields.io/badge/🚀_Adoption_Growth-+40%25-8b5cf6?style=flat-square" alt="Adoption">
   <img src="https://img.shields.io/badge/👔_People_Managed-80-0f172a?style=flat-square" alt="People">
 </p>
